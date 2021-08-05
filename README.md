@@ -1,4 +1,4 @@
-### Welcome to my Github profile
+### Welcome to my Github profile!
 
 Hi there 👋, 
 
@@ -8,7 +8,7 @@ I am also Co-Founder together with [Jorge](https://www.linkedin.com/in/jorgegpal
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgarciareimers&count_private=true&show_icons=true&line_height=28)](https://github.com/anuraghazra/github-readme-stats) &#8195; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgarciareimers&langs_count=10&hide=python&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-I work in both front and backend and my main technologies/programming languages (right now) are:
+I work in both front and backend sides and my main technologies/programming languages (right now) are:
 
 - Android (👀 Java): I know, right now Kotlin is the king but... I 💚 Java.
 - Flutter (Dart): New as it is, I 🧡 this multi-platform programming language!
