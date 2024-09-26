@@ -4,7 +4,7 @@ Hi there 👋,
 
 I am Miguel García Reimers, a Chemical Engineer ⚗️ who decided to pursue his passion on programming and make it as a living. Thanks to that decision, I am currently working as a freelance full-time Software Engineer (and it has been so since 2019). You can find my main projects in [Malt](https://www.malt.es/profile/mgarciareimers).
 
-I am also Co-Founder together with [Jorge](https://www.linkedin.com/in/jorgegpalacios/) of Spotshot App, the best mobile app to find the greatest spots to take pictures or shoot videos: the app has been developed in Flutter for both Android and iOS and the API in NodeJS. You can find more [here](https://appspotshot.com).
+I am also Co-Founder together with [Jorge](https://www.linkedin.com/in/jorgegpalacios/) of Spotshot App, the best mobile app to find the greatest spots to take pictures or shoot videos: the app has been developed in Flutter for both Android and iOS and the API in NodeJS. You can find more [here](https://www.instagram.com/spotshot_app).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgarciareimers&count_private=true&show_icons=true&line_height=28)](https://github.com/anuraghazra/github-readme-stats) &#8195; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgarciareimers&langs_count=10&hide=python&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
