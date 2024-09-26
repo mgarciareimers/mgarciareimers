@@ -10,9 +10,11 @@ I am also Co-Founder together with [Jorge](https://www.linkedin.com/in/jorgegpal
 
 I work in both front and backend sides and my main technologies/programming languages (right now) are:
 
-- Android (👀 Java): I know, right now Kotlin is the king but... I 💚 Java.
 - Flutter (Dart): New as it is, I 🧡 this multi-platform programming language!
 - NodeJS & Typescript ✨: The combination of both of them is so magical...
+- Android (👀 Java): I know, right now Kotlin is the king but... I 💚 Java.
+- ReactJS: Starting again, after a few years 👾.
+- Python 🐍: Only as a starter. I like it, but I need to do some projects in order to get confidence.
 
 Although I am really busy now (hope to not to be soon) 💞️ I’m looking to collaborate on any project related to the technologies mentioned above.
 
